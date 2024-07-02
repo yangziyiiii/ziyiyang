@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+- <span style="background-color: #ADD8E6; color: black; padding: 3px 5px; border-radius: 3px;">AICAS'2023</span> <a href="#" style="color: blue;">Three Challenges in ReRAM-Based Process-In-Memory for Neural Network</a>
+  
+  **Ziyi Yang**, Kehan Liu, Yiru Duan, Mingjia Fan, Qiyue Zhang and Zhou Jin
+
+  *IEEE 5th International Conference on Artificial Intelligence Circuits and Systems (AICAS)*, 2023.
+
+
+- <span style="background-color: #ADD8E6; color: black; padding: 3px 5px; border-radius: 3px;">Electronics'2023</span> <a href="#" style="color: blue;">Accelerating DC Circuit Simulation through Feature Selection and LSTM-Based Time-Step Control</a>
+  
+  Zhou Jin, **Ziyi Yang**, Haojie Pei, Xiaru Zha, Yinuo Bai, Dan Niu, Zhenya Zhou, and Xiao Wu.

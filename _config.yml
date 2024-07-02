@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Ziyi YANG / Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ziyi Yang"
 description              : &description "personal description"
 url                      : https://ziyiyang.fun
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yangziyiiii/yangziyiiii.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "ziyi.jpg"
   name             : "Ziyi Yang"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Ph.D. Student"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
@@ -106,7 +106,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "timestamp-seconds" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
