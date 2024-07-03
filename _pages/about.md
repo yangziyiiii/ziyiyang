@@ -11,4 +11,5 @@ Ziyi Yang is currently a Ph.D. student at the Microelectronics Thrust, Function 
 
 
 <h1>Awards & Honors</h1>
-- 2024 Outstanding Graduate in China University of Petroleum, Beijing
+- Outstanding Graduate Award, 2024 
+- Outstanding Individual in Technological Innovation Award, 2024
