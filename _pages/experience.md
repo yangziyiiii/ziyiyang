@@ -1,19 +1,17 @@
 ---
 layout: archive
 permalink: /experience/
+title: "Experience"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Hong Kong University of Science and Technology(Guangzhou), 2024 - 
-* B.S. in China University of Petroleum(Beijing), 2020 - 2024
+### Education
+* Ph.D in Hong Kong University of Science and Technology(Guangzhou), 2024 - present
+* B.Eng. in China University of Petroleum(Beijing), 2020 - 2024
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -37,7 +35,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 <!-- Publications
 ======
