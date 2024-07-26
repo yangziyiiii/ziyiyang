@@ -24,7 +24,7 @@ author:
   avatar           : "ziyi.jpg"
   name             : "Ziyi Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student"
+  bio              : "Ph.D. Student in HKUST(GZ)"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=EGhWsaUAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-8778-9125"
   semantic         : # URL
